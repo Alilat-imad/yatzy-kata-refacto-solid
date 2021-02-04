@@ -5,6 +5,8 @@
 The game of Yatzy is a simple dice game. Each player rolls five six-sided dice. They can re-roll some or all of the dice
 up to three times (including the original roll).
 
+Original Yatzy Code (Before Refactoring) : https://github.com/emilybache/Yatzy-Refactoring-Kata
+
 # Envirement de developpement
 
 - Spring boot 2.4.2
